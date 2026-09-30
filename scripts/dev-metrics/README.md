@@ -6,7 +6,7 @@ roughly how many developers run them each week.**
 
 It is deliberately low-friction: no command to remember and no per-run flags.
 Internal developers are asked **once** (during `pnpm install`) and the answer is
-remembered. Today only `pnpm` is tracked; add another CLI in one line.
+remembered. Today only `pnpm` is tracked; add another CLI in one line
 
 ## How it works
 
