@@ -5,7 +5,7 @@
 Every component in the enriched release SBOM carries a valid SPDX license
 identifier. The two dual-licensed packages in the tree (`jszip`, `mailsplit`)
 offer MIT as an alternative to their copyleft option; n8n elects MIT for both,
-recorded as `cdx:license:elected` in the SBOM. No copyleft license is in force.
+recorded as `cdx:license:elected` in the SBOM. No copyleft license is in forces.
 
 ---
 
